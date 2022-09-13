@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How long is a marathon?",
+    "answers": {
+      "answer_1": "29.1 miles",
+      "answer_2": "26.7 miles",
+      "answer_3": "26.2 miles",
+      "answer_4": "27 miles"
+    },
+    "answer": "26.2 miles"
+  },
+  {
+    "question": "How many players are there on a baseball team?",
+    "answers": {
+      "answer_1": "11 players",
+      "answer_2": "9 players",
+      "answer_3": "8 players",
+      "answer_4": "12 players"
+    },
+    "answer": "9 players"
+  },
+  {
+    "question": "Which country won the World Cup 2018?",
+    "answers": {
+      "answer_1": "Germany",
+      "answer_2": "Russia",
+      "answer_3": "Spain",
+      "answer_4": "France"
+    },
+    "answer": "France"
+  },
+  {
+    "question": "What sport is considered the “king of sports”?",
+    "answers": {
+      "answer_1": "Horseback Riding",
+      "answer_2": "Weight Lifting",
+      "answer_3": "Soccer",
+      "answer_4": "Swimming"
+    },
+    "answer": "Soccer"
+  },
+  {
+    "question": "What are the two national sports of Canada?",
+    "answers": {
+      "answer_1": "Lacrosse and Ice Hockey",
+      "answer_2": "Mountaineering and Swimming",
+      "answer_3": "Soccer and Weight Lifting ",
+      "answer_4": "Swimming and Horseback Riding"
+    },
+    "answer": "Lacrosse and Ice Hockey"
+  },
+  {
+    "question": "What team won the first NBA game in 1946?",
+    "answers": {
+      "answer_1": "Orlando Magic",
+      "answer_2": "Atlanta Hawks",
+      "answer_3": "New Orleans Pelicans",
+      "answer_4": "The New York Knicks"
+    },
+    "answer": "The New York Knicks"
+  },
+  {
+    "question": "In which sport would you have a touchdown?",
+    "answers": {
+      "answer_1": "American football",
+      "answer_2": "Soccer",
+      "answer_3": "Baseball",
+      "answer_4": "Horseback Riding"
+    },
+    "answer": "American football"
+  },
+  {
+    "question": "In which year did Amir Khan win his Olympic boxing medal?",
+    "answers": {
+      "answer_1": "2008",
+      "answer_2": "2004",
+      "answer_3": "2000",
+      "answer_4": "2016"
+    },
+    "answer": "2004"
+  },
+  {
+    "question": "What is Muhammad Ali’s real name?",
+    "answers": {
+      "answer_1": "Smith",
+      "answer_2": "Rahul",
+      "answer_3": "Michael",
+      "answer_4": "Cassius Clay"
+    },
+    "answer": "Cassius Clay"
+  },
+  {
+    "question": "For which team did Michael Jordan spend most of his career playing?",
+    "answers": {
+      "answer_1": "The New York Knicks",
+      "answer_2": "New Orleans Pelicans",
+      "answer_3": "Chicago Bulls",
+      "answer_4": "Atlanta Hawks"
+    },
+    "answer": "Chicago Bulls"
+  }
+]
